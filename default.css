@@ -1,0 +1,28 @@
+#header{
+background-image:url(Images/headerclassic.png);
+color:#000;
+}
+a{
+color:#666;
+}
+a:hover{
+color:#777;
+}
+#nav a{
+color:#AAA;
+background-color:#555;
+border-color:#000;
+}
+#nav a:hover{
+background-color:#666;
+color:#BBB;
+}
+#starrate{
+color:#FDD017;
+}
+#starblank{
+color:#CCC;
+}
+.star:hover{
+color:#00611C;
+}
